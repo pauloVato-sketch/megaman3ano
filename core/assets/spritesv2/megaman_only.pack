@@ -1,0 +1,12 @@
+
+megaman_only.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mega_man_hd_sprites_
+  rotate: false
+  xy: 1, 1
+  size: 648, 413
+  orig: 648, 413
+  offset: 0, 0
+  index: -1

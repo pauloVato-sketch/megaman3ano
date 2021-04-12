@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2685" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="16" tileheight="16" infinite="0" nextobjectid="37">
+ <tileset firstgid="1" source="untitledMASTERED.tsx"/>
+ <tileset firstgid="609" source="untitled.tsx"/>
+ <tileset firstgid="23115" source="itens.tsx"/>
+ <layer name="background" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMA6A+s1f/cipiLyT0kqqqqqqqqq8DPWTmZA==
+  </data>
+ </layer>
+ <layer name="graphics" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0slOFFEUxvHD1OMzADtRkRkeQFFBAcOCSXayZhBxArckzAq6YsE8b2USENC3gB2gojI+AAj8b5oOVqc76SpImkrul/zSN53UyfmqroiOjo6Ojo6OjjHFccZfu0bt72eXuBxGKv4OzZUiTkdk9zOTlkrf75P/3r/aPyEmMvtYif87qA6BPez0LVQCO1x2zlXNMxt1f6zeocDd7dpDR+e6p8lpZNdku0Qy0XiFParLRWrKrT3bUiLSija0owOd6MJ7fEA3evARn0qMPbJcvnOke9wtFbmHXNzHAzxEHvLxCI9RgEIUlV702MM+Di7R47NbZBoz7vDO8d7gc47Y6xj/cIJTtWeZSBSiEYNYxMEBZ9lFD2WC2ZNu6z2qPXwD1HrCO/c+DT5nlr3mMI8vWMAilvAVy1jBKr7he0CPZ8yu8ljvcYP3m4Sb3vDOoXrUcR+fox4v0ICXeIXXeIO3aEQT3p3f3wSvOYkhbGATW2GeQ/W4VSFyG8m4gxSkIg3pyEAmspCNnArfc2tec9ZDUHuZFSw/2OsnfmEbv/EHf7GDXexhHwc4vKY9+vi/HwMYxBCGMYJRjGEcE5jE1PmcM89Fy1M=
+  </data>
+ </layer>
+ <objectgroup name="ground">
+  <object id="1" x="0" y="448" width="16"/>
+  <object id="2" x="0" y="448" width="32"/>
+  <object id="8" x="20" y="449" width="3"/>
+  <object id="12" x="0" y="432" width="288" height="48"/>
+  <object id="16" x="289" y="384" width="208" height="94"/>
+  <object id="17" x="576" y="446" width="208" height="35"/>
+  <object id="18" x="759" y="388" width="25" height="51"/>
+  <object id="19" x="732" y="415" width="23" height="28"/>
+  <object id="20" x="588" y="359" width="100" height="13"/>
+  <object id="25" x="337" y="351.5" width="30.5" height="31"/>
+  <object id="33" x="353.5" y="207.5" width="0.5" height="2.5">
+   <ellipse/>
+  </object>
+  <object id="34" x="351.5" y="208" width="16" height="15"/>
+ </objectgroup>
+ <objectgroup name="pipes"/>
+ <objectgroup name="power">
+  <object id="26" x="260" y="210" width="11.5" height="14"/>
+  <object id="27" x="402.667" y="126.667"/>
+  <object id="32" x="355" y="192.5" width="13" height="11">
+   <ellipse/>
+  </object>
+  <object id="36" x="261.5" y="209" width="8.5" height="14.5"/>
+ </objectgroup>
+ <objectgroup name="bricks">
+  <object id="21" x="253" y="255" width="35" height="31"/>
+ </objectgroup>
+</map>
